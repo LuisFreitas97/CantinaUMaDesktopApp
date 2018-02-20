@@ -1,0 +1,28 @@
+1
+LUIS FREITAS
+1997/4/4
+Ribeira brava
+LEI
+123
+0
+2
+DIANA CAMARA
+2016/3/14
+Serra de agua
+Enfermagem
+234
+0
+3
+RODRIGO GASPAR
+1992/3/3
+Ponta do sol
+LEI
+456
+0
+4
+DIOGO MARTINS
+1997/3/6
+Machico
+LEI
+567
+0
